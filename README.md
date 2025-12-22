@@ -1,7 +1,7 @@
 # 📊 Indonesia AI Salary Analysis 2024 (End-to-End Project)
 
 ## 📌 Deskripsi Proyek
-Proyek ini bertujuan menganalisis lanskap gaji profesional AI dan Data di Indonesia. Dataset bersumber dari Kaggle: https://www.kaggle.com/datasets/<nama-dataset> (ganti dengan URL lengkap jika tersedia).
+Project ini bertujuan untuk menganalisis lanskap gaji profesional AI dan Data di Indonesia. Dataset ini bersumber dari kaggle dataset [Indonesian AI & Data Jobs Salary](https://www.kaggle.com/datasets/pu15vy/indonesian-ai-and-data-jobs-salary) berisi 500 baris informasi mencakup jabatan, pengalaman kerja, lokasi, pendidikan, dan jenis industri.
 
 Analisis dilakukan secara end-to-end: pembersihan data, pemrosesan dan penyimpanan di database, serta visualisasi interaktif.
 
@@ -87,3 +87,4 @@ Preview Dashboard:
 
 ## 📫 Kontak
 Connect with me: [LinkedIn](https://www.linkedin.com/in/ardiansyah-putra-7746a0280)
+
