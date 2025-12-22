@@ -1,0 +1,501 @@
+job_title,years_experience,location,education,company_size,industry_type,salary
+NLP Engineer,4.0,Bandung,S1,medium,startup,5847950
+Data Engineer,2.0,Makassar,S1,small,fintech,3787380
+BI Analyst,2.0,Jakarta,S1,medium,e-commerce,3239682
+Computer Vision Engineer,4.0,Medan,S1,large,fintech,6983856
+Data Analyst,4.0,Malang,SMA,small,startup,2452907
+BI Analyst,3.0,Malang,S1,medium,startup,2620780
+ML Ops Engineer,0.0,Batam,S1,large,fintech,4046258
+NLP Engineer,2.0,Semarang,S1,medium,e-commerce,4948080
+,1.0,Bandung,,small,consulting,2179066
+AI Engineer,4.0,Semarang,S1,medium,startup,
+ML Ops Engineer,3.0,Medan,S1,small,banking,4004492
+Data Analyst,3.0,Makassar,S1,medium,e-commerce,3180681
+NLP Engineer,2.0,Malang,,large,,5801079
+Machine Learning Engineer,5.0,,S1,medium,fintech,6062122
+Data Engineer,2.0,Tangerang,,medium,fintech,5149698
+,2.0,Jakarta,S2,large,startup,6173274
+Machine Learning Engineer,2.0,Medan,S1,medium,startup,4132960
+AI Engineer,4.0,Yogyakarta,S2,small,startup,4657373
+NLP Engineer,4.0,Malang,SMA,small,startup,4132197
+Machine Learning Engineer,0.0,Tangerang,S1,large,banking,4969043
+ML Ops Engineer,3.0,Batam,S2,small,banking,4137855
+Computer Vision Engineer,1.0,Tangerang,S1,small,e-commerce,4583350
+BI Analyst,0.0,Medan,S1,medium,startup,2105024
+BI Analyst,6.0,Bekasi,S2,medium,banking,4419610
+Machine Learning Engineer,1.0,Bali,,large,e-commerce,5159514
+NLP Engineer,,,S1,small,e-commerce,7273320
+Machine Learning Engineer,3.0,Tangerang,S1,small,startup,4525504
+Machine Learning Engineer,4.0,Makassar,S1,small,fintech,5049838
+Machine Learning Engineer,3.0,Bandung,S1,medium,e-commerce,5635704
+Data Scientist,5.0,Medan,S1,small,consulting,4611916
+Data Analyst,0.0,Surabaya,S2,medium,startup,2675058
+AI Engineer,5.0,,S1,small,,5138852
+ML Ops Engineer,0.0,Jakarta,S1,small,e-commerce,3634813
+Computer Vision Engineer,2.0,Jakarta,D3,large,startup,5669458
+,3.0,Tangerang,S1,small,fintech,5845366
+Computer Vision Engineer,5.0,Depok,S1,medium,fintech,8049401
+Data Scientist,7.0,Yogyakarta,S1,large,startup,5868480
+ML Ops Engineer,3.0,Bekasi,S1,medium,startup,4467263
+Machine Learning Engineer,6.0,Yogyakarta,SMA,large,banking,6261055
+ML Ops Engineer,3.0,Medan,S2,large,startup,4511854
+NLP Engineer,3.0,Malang,S1,medium,fintech,5840086
+ML Ops Engineer,2.0,Bandung,S1,medium,e-commerce,4217519
+Machine Learning Engineer,4.0,Batam,S2,small,startup,4687379
+ML Ops Engineer,0.0,Bali,,small,startup,2878676
+ML Ops Engineer,2.0,,S1,small,consulting,3191496
+AI Engineer,0.0,,,medium,banking,4134888
+ML Ops Engineer,2.0,Yogyakarta,S1,small,fintech,3510226
+BI Analyst,2.0,Yogyakarta,S1,medium,startup,2343780
+,0.0,Semarang,S1,small,startup,1824504
+AI Engineer,2.0,Batam,S1,medium,startup,4751991
+Data Engineer,2.0,Surabaya,SMA,small,e-commerce,3634322
+Data Analyst,5.0,Makassar,S3,small,e-commerce,3388398
+AI Engineer,,Malang,S1,small,e-commerce,5701635
+Data Analyst,4.0,Tangerang,S2,small,banking,3755122
+Data Scientist,4.0,Bekasi,S1,large,e-commerce,6354472
+,2.0,Makassar,S1,medium,e-commerce,2954288
+,1.0,Bali,S1,medium,startup,2513569
+Machine Learning Engineer,2.0,Medan,D3,large,fintech,5279380
+Data Engineer,4.0,Batam,S3,medium,,6016338
+BI Analyst,1.0,Malang,D3,small,fintech,2364743
+Data Analyst,4.0,Jakarta,S2,large,fintech,5271202
+Data Analyst,2.0,Bali,SMA,medium,banking,
+Computer Vision Engineer,3.0,Malang,SMA,large,e-commerce,5452742
+BI Analyst,0.0,Jakarta,S1,small,fintech,2699650
+ML Ops Engineer,1.0,Depok,D3,medium,startup,4195398
+ML Ops Engineer,5.0,Bali,S1,small,startup,4017788
+,1.0,Bali,D3,large,startup,2669588
+BI Analyst,1.0,Tangerang,S2,medium,fintech,3399916
+AI Engineer,2.0,Bandung,S1,large,fintech,6108556
+AI Engineer,3.0,Makassar,S2,medium,startup,4904019
+Data Engineer,3.0,Depok,S1,small,e-commerce,4706150
+Data Scientist,6.0,Bandung,,medium,fintech,7203000
+AI Engineer,6.0,Medan,,small,fintech,6541414
+AI Engineer,4.0,Jakarta,S1,small,fintech,6848604
+ML Ops Engineer,0.0,Bekasi,S1,small,,2955314
+Data Scientist,,Bekasi,S1,medium,banking,6445202
+,,Tangerang,S1,small,fintech,2909610
+Data Analyst,4.0,Bali,S1,large,startup,3433777
+,2.0,Makassar,S2,small,fintech,2928462
+Data Engineer,4.0,Depok,S1,large,consulting,6236595
+Computer Vision Engineer,4.0,Batam,S1,,,5843966
+Data Engineer,2.0,Depok,S1,medium,startup,4270912
+Data Scientist,,Bandung,D3,medium,fintech,
+Data Engineer,1.0,Semarang,S2,medium,fintech,4297370
+Computer Vision Engineer,1.0,Malang,S1,large,startup,4501024
+Machine Learning Engineer,1.0,Medan,,medium,fintech,4488363
+ML Ops Engineer,1.0,Medan,S1,small,consulting,3120570
+ML Ops Engineer,3.0,Semarang,S1,medium,fintech,4236302
+Data Analyst,2.0,Surabaya,S1,medium,e-commerce,3251298
+Data Engineer,4.0,Depok,S1,medium,banking,6250728
+Data Analyst,1.0,Bekasi,S1,small,startup,2538848
+Data Analyst,4.0,Bali,S1,small,fintech,3298269
+AI Engineer,4.0,Medan,S2,small,fintech,6025447
+Computer Vision Engineer,1.0,Surabaya,S1,small,fintech,4585351
+Machine Learning Engineer,5.0,Medan,S1,large,consulting,6396514
+,5.0,Batam,,small,startup,4528021
+ML Ops Engineer,3.0,,S1,medium,fintech,4957740
+NLP Engineer,3.0,Yogyakarta,S1,small,,4888082
+NLP Engineer,3.0,Malang,S1,small,consulting,4697488
+Data Analyst,1.0,,S1,small,startup,2424611
+,3.0,Medan,S1,small,consulting,3991171
+Data Scientist,3.0,Surabaya,S2,medium,banking,5734706
+NLP Engineer,3.0,Yogyakarta,S2,medium,startup,4896622
+Machine Learning Engineer,8.0,,S1,small,startup,5445906
+BI Analyst,0.0,Tangerang,S2,,consulting,2822102
+Machine Learning Engineer,4.0,Depok,S1,small,consulting,5762332
+BI Analyst,0.0,,S1,small,banking,2229735
+ML Ops Engineer,2.0,Makassar,S1,medium,e-commerce,3735104
+AI Engineer,1.0,Depok,S1,small,startup,4156938
+ML Ops Engineer,2.0,Medan,S1,medium,fintech,4209343
+Computer Vision Engineer,5.0,Tangerang,S1,medium,fintech,7763143
+BI Analyst,1.0,Bekasi,D3,large,,3008269
+Data Scientist,3.0,Tangerang,S1,small,consulting,4596544
+AI Engineer,5.0,Bandung,S1,,e-commerce,7714910
+Data Analyst,1.0,Medan,S1,medium,startup,2517766
+Data Scientist,6.0,Bandung,S1,medium,fintech,6593494
+Data Scientist,4.0,Tangerang,S1,medium,e-commerce,5740644
+Data Engineer,,Bandung,S1,medium,startup,3781519
+Computer Vision Engineer,4.0,Batam,S1,medium,consulting,6115793
+Computer Vision Engineer,8.0,Bekasi,S1,small,banking,8045094
+BI Analyst,3.0,Yogyakarta,S1,small,e-commerce,2429551
+NLP Engineer,5.0,Malang,S2,small,startup,5323960
+Computer Vision Engineer,4.0,Makassar,S1,large,e-commerce,6074606
+NLP Engineer,5.0,Surabaya,S1,large,e-commerce,7822129
+NLP Engineer,2.0,Bali,S2,large,e-commerce,5988781
+Computer Vision Engineer,4.0,Batam,S1,medium,e-commerce,6133092
+NLP Engineer,3.0,Makassar,S1,large,,5130767
+AI Engineer,3.0,Surabaya,S2,large,e-commerce,
+Machine Learning Engineer,3.0,Depok,S2,small,startup,4670664
+Machine Learning Engineer,4.0,Tangerang,S1,medium,fintech,6851878
+Data Engineer,0.0,Tangerang,S2,small,consulting,3795024
+AI Engineer,2.0,Bali,S1,small,startup,3972090
+NLP Engineer,4.0,Bali,S2,medium,startup,5623684
+Data Analyst,3.0,Surabaya,SMA,medium,e-commerce,3177155
+,3.0,Medan,S1,small,startup,3411612
+ML Ops Engineer,1.0,Yogyakarta,S2,small,banking,3359600
+Data Scientist,,Medan,S1,medium,e-commerce,4485702
+Data Analyst,0.0,Yogyakarta,D3,small,fintech,2313346
+Data Analyst,4.0,Surabaya,S1,large,fintech,4259031
+Data Analyst,3.0,Malang,S1,small,fintech,3060489
+Data Scientist,1.0,Surabaya,S1,medium,e-commerce,4485957
+Data Engineer,4.0,Malang,S1,small,consulting,4357552
+Computer Vision Engineer,2.0,Yogyakarta,S1,medium,fintech,5006792
+Computer Vision Engineer,0.0,Bekasi,S1,medium,e-commerce,4621912
+Data Engineer,5.0,,S1,small,banking,5835028
+Data Engineer,3.0,Bandung,S1,small,fintech,4829576
+Data Analyst,1.0,Bandung,S1,medium,consulting,2931502
+Data Engineer,4.0,Surabaya,S1,large,startup,5377670
+BI Analyst,1.0,Surabaya,S1,small,startup,2283558
+,3.0,Surabaya,D3,small,fintech,2810492
+AI Engineer,2.0,Yogyakarta,,medium,fintech,5328585
+Data Scientist,3.0,Yogyakarta,S1,small,fintech,4217748
+NLP Engineer,2.0,Surabaya,S1,small,startup,4234181
+ML Ops Engineer,1.0,Jakarta,S1,small,e-commerce,3798256
+,2.0,Jakarta,D3,medium,fintech,5285683
+Data Scientist,3.0,Medan,S2,small,e-commerce,4260521
+ML Ops Engineer,2.0,Makassar,S1,medium,fintech,4016968
+Data Analyst,2.0,Malang,S1,small,fintech,2847494
+Data Scientist,1.0,Depok,S1,medium,fintech,
+BI Analyst,2.0,Semarang,S1,small,fintech,2492244
+Data Analyst,1.0,Depok,S1,small,startup,2609018
+ML Ops Engineer,2.0,Depok,,medium,startup,4026781
+Data Scientist,5.0,Tangerang,S1,,startup,5557372
+Data Engineer,2.0,Bandung,S1,small,banking,4090224
+AI Engineer,1.0,Makassar,S1,large,banking,4980482
+Data Scientist,4.0,Yogyakarta,SMA,large,fintech,5257266
+NLP Engineer,5.0,Malang,S1,medium,startup,5872375
+Data Scientist,4.0,Jakarta,S1,,startup,4878060
+BI Analyst,2.0,Tangerang,S1,small,,2470854
+Machine Learning Engineer,1.0,Makassar,,medium,startup,3625098
+Computer Vision Engineer,3.0,Medan,S2,medium,startup,5139140
+AI Engineer,1.0,Depok,S2,large,startup,5358287
+Data Scientist,6.0,Bali,S1,small,startup,4659426
+NLP Engineer,4.0,Makassar,S1,medium,e-commerce,5531472
+Data Analyst,1.0,Surabaya,S1,medium,startup,2791613
+Data Analyst,2.0,Bandung,S2,small,e-commerce,3066464
+Computer Vision Engineer,2.0,Semarang,,medium,fintech,5023672
+BI Analyst,2.0,Tangerang,S2,small,consulting,2924488
+Data Analyst,3.0,Semarang,S1,large,e-commerce,3469810
+BI Analyst,3.0,Malang,S1,,fintech,2819970
+ML Ops Engineer,1.0,Batam,S1,small,fintech,3581473
+Machine Learning Engineer,5.0,Depok,SMA,medium,startup,5375042
+NLP Engineer,1.0,Depok,S1,medium,banking,5460978
+Data Analyst,2.0,Malang,D3,small,consulting,2450980
+NLP Engineer,4.0,Tangerang,S2,medium,fintech,7855272
+Machine Learning Engineer,1.0,Surabaya,,large,startup,4411591
+Computer Vision Engineer,4.0,,S1,medium,fintech,7483018
+Machine Learning Engineer,3.0,Medan,S1,small,startup,4053256
+NLP Engineer,3.0,Semarang,S1,small,e-commerce,4715390
+,6.0,Depok,S1,medium,consulting,6451464
+AI Engineer,6.0,Malang,S1,medium,fintech,
+BI Analyst,1.0,Bali,,small,e-commerce,2394407
+Computer Vision Engineer,2.0,Semarang,S2,small,fintech,4813702
+Computer Vision Engineer,4.0,Surabaya,S1,medium,banking,6856524
+Data Scientist,2.0,Makassar,S2,small,e-commerce,3883946
+BI Analyst,0.0,Bali,,large,startup,2477670
+Machine Learning Engineer,3.0,Medan,S1,medium,banking,5251892
+ML Ops Engineer,3.0,Makassar,S1,medium,fintech,5185046
+AI Engineer,2.0,Bekasi,S1,medium,fintech,6036196
+ML Ops Engineer,0.0,Bandung,D3,small,e-commerce,3018117
+Data Engineer,2.0,Semarang,S1,large,e-commerce,4501398
+Data Scientist,7.0,Bali,S1,medium,fintech,6854746
+BI Analyst,2.0,Jakarta,S1,medium,startup,3079418
+Data Analyst,2.0,Medan,S2,small,startup,2549042
+NLP Engineer,3.0,Semarang,S1,small,e-commerce,4653048
+Data Engineer,2.0,Makassar,,small,fintech,3885268
+AI Engineer,3.0,Bekasi,S1,medium,consulting,5994550
+,4.0,Yogyakarta,,large,startup,4303850
+NLP Engineer,6.0,Bali,S2,small,fintech,6879338
+AI Engineer,7.0,Makassar,S1,medium,fintech,7530328
+BI Analyst,4.0,Tangerang,S1,medium,e-commerce,
+Data Analyst,1.0,Jakarta,D3,small,startup,2627028
+AI Engineer,7.0,Malang,,small,startup,5875515
+AI Engineer,5.0,Medan,S1,medium,fintech,6755140
+Data Scientist,4.0,Jakarta,D3,large,,6171804
+Data Analyst,1.0,Surabaya,S2,small,startup,2530365
+Data Analyst,1.0,Yogyakarta,S2,,startup,2285661
+Data Scientist,1.0,Tangerang,SMA,medium,e-commerce,4074826
+BI Analyst,2.0,,S1,medium,startup,2533700
+Machine Learning Engineer,6.0,Tangerang,D3,small,fintech,6395575
+AI Engineer,8.0,Yogyakarta,S1,small,,6597664
+BI Analyst,2.0,Medan,S1,large,startup,
+NLP Engineer,3.0,Jakarta,D3,medium,e-commerce,6291995
+Data Analyst,1.0,Depok,S1,large,fintech,3803824
+Data Analyst,3.0,Medan,S1,large,fintech,3763334
+Data Scientist,4.0,Surabaya,S1,large,banking,6116955
+Data Analyst,2.0,Malang,S1,medium,banking,3198132
+BI Analyst,3.0,,S1,small,e-commerce,2997798
+Machine Learning Engineer,2.0,Bandung,S1,small,e-commerce,4423528
+Computer Vision Engineer,4.0,,D3,small,consulting,4510184
+ML Ops Engineer,,Tangerang,S1,small,fintech,
+NLP Engineer,1.0,Bekasi,S1,,,4834666
+Data Engineer,2.0,Surabaya,S1,small,consulting,3968202
+Data Scientist,6.0,Jakarta,S1,large,e-commerce,7815264
+AI Engineer,4.0,Bali,S2,small,fintech,6047302
+Data Analyst,0.0,Bekasi,D3,small,fintech,2652618
+ML Ops Engineer,1.0,Bali,SMA,medium,fintech,4312187
+AI Engineer,,Yogyakarta,S1,large,fintech,6987240
+AI Engineer,2.0,Bali,S1,medium,fintech,5561073
+ML Ops Engineer,0.0,Bekasi,S1,small,fintech,3724743
+Data Engineer,3.0,Medan,D3,medium,e-commerce,4471531
+Computer Vision Engineer,7.0,Malang,S1,small,fintech,6782736
+,3.0,Bandung,S1,small,startup,4308134
+BI Analyst,1.0,Medan,S1,medium,consulting,2473410
+ML Ops Engineer,0.0,Bandung,S1,medium,startup,3277376
+Computer Vision Engineer,3.0,Makassar,D3,medium,startup,
+Computer Vision Engineer,3.0,Bandung,S1,,consulting,5086714
+Data Scientist,,Malang,S2,small,e-commerce,4963346
+ML Ops Engineer,0.0,Medan,S1,large,e-commerce,3806930
+,2.0,Semarang,S1,small,fintech,4465240
+AI Engineer,5.0,Medan,D3,small,fintech,5758476
+Computer Vision Engineer,2.0,Batam,S2,small,startup,4360018
+ML Ops Engineer,1.0,Bekasi,S2,medium,fintech,4714372
+Data Analyst,0.0,Surabaya,S1,medium,fintech,3042444
+ML Ops Engineer,1.0,Tangerang,S1,small,startup,3241529
+NLP Engineer,2.0,,S1,medium,fintech,5247226
+NLP Engineer,,Medan,S1,large,startup,5312652
+Data Engineer,4.0,Batam,S1,small,consulting,4509574
+NLP Engineer,2.0,Bandung,S1,large,e-commerce,6845492
+Data Analyst,1.0,Bekasi,S2,,fintech,3137898
+BI Analyst,4.0,Surabaya,S2,small,fintech,3399583
+Data Engineer,2.0,Bali,S1,small,startup,3594624
+NLP Engineer,2.0,Malang,S2,medium,fintech,5710194
+Computer Vision Engineer,6.0,Bandung,SMA,small,startup,5303700
+BI Analyst,1.0,Medan,SMA,large,fintech,2769004
+Data Analyst,0.0,Surabaya,SMA,large,startup,2486570
+BI Analyst,0.0,Depok,S1,large,startup,2714142
+BI Analyst,1.0,Tangerang,D3,small,startup,2210952
+NLP Engineer,5.0,Bekasi,S1,medium,fintech,8017236
+Data Engineer,3.0,Depok,S1,medium,startup,4962790
+BI Analyst,2.0,Depok,S1,medium,e-commerce,3108358
+AI Engineer,,Yogyakarta,,small,e-commerce,3591798
+ML Ops Engineer,2.0,Bekasi,S1,small,startup,3526109
+Computer Vision Engineer,0.0,Bekasi,S1,small,banking,4236538
+AI Engineer,2.0,Batam,S2,medium,consulting,5216599
+BI Analyst,2.0,Depok,S1,small,banking,2858948
+BI Analyst,3.0,Bekasi,S2,large,e-commerce,3944412
+Data Engineer,4.0,Bekasi,S1,medium,fintech,6331050
+AI Engineer,0.0,Yogyakarta,S2,medium,startup,3645120
+Data Engineer,,Medan,S1,medium,fintech,4917816
+Data Analyst,0.0,Surabaya,S1,medium,startup,2558584
+Machine Learning Engineer,4.0,Yogyakarta,S1,small,startup,4130852
+NLP Engineer,4.0,Bandung,S2,medium,fintech,7021113
+AI Engineer,3.0,Surabaya,S2,large,e-commerce,6917688
+Machine Learning Engineer,4.0,Medan,S1,medium,banking,5896250
+ML Ops Engineer,0.0,Bekasi,S1,small,startup,3139166
+Computer Vision Engineer,4.0,Depok,S2,medium,fintech,7818572
+Data Engineer,4.0,Batam,SMA,small,consulting,4028893
+ML Ops Engineer,2.0,Bali,S1,small,startup,3130284
+AI Engineer,3.0,Bandung,S1,medium,fintech,6242528
+BI Analyst,3.0,Jakarta,S1,,e-commerce,
+ML Ops Engineer,3.0,Bandung,S1,medium,e-commerce,4670162
+Computer Vision Engineer,2.0,Depok,S1,small,,5121829
+,,Yogyakarta,S1,large,consulting,5614342
+BI Analyst,1.0,Bali,S1,medium,e-commerce,2626616
+BI Analyst,3.0,Depok,S2,small,startup,2874439
+Data Scientist,,Bali,S1,,startup,3876720
+BI Analyst,1.0,Makassar,S2,large,startup,2572088
+Computer Vision Engineer,3.0,Medan,S1,large,startup,5405154
+Machine Learning Engineer,,Malang,S2,medium,startup,4673783
+AI Engineer,2.0,Tangerang,S2,medium,banking,6268500
+Computer Vision Engineer,3.0,Batam,S2,medium,e-commerce,5917865
+Data Scientist,2.0,Malang,S1,small,banking,3956649
+Data Scientist,3.0,,S1,small,startup,4200288
+Machine Learning Engineer,1.0,Batam,,small,startup,3538366
+Data Analyst,4.0,Bandung,S2,large,e-commerce,4819972
+Data Scientist,6.0,Depok,S1,medium,e-commerce,6764184
+Machine Learning Engineer,5.0,Surabaya,S2,medium,startup,5864008
+NLP Engineer,4.0,Surabaya,S1,medium,banking,6656464
+BI Analyst,1.0,Bandung,S2,medium,banking,3029597
+AI Engineer,6.0,Makassar,S1,medium,e-commerce,6492216
+Computer Vision Engineer,4.0,Makassar,S2,small,startup,4688335
+Data Scientist,3.0,Medan,S1,medium,startup,4207686
+NLP Engineer,6.0,Bekasi,S2,small,e-commerce,7413702
+Data Analyst,2.0,Medan,S1,small,startup,2377890
+Data Analyst,0.0,Semarang,S1,medium,startup,2282134
+Data Scientist,9.0,Jakarta,S2,medium,startup,7726970
+Data Analyst,1.0,Surabaya,,large,fintech,3562940
+Computer Vision Engineer,1.0,Depok,S1,small,banking,4750487
+Data Engineer,5.0,Bandung,S1,small,startup,4653908
+Data Analyst,0.0,Tangerang,S2,medium,e-commerce,3089726
+Data Scientist,4.0,Surabaya,S1,medium,fintech,5806066
+Data Analyst,1.0,Surabaya,S1,medium,e-commerce,2942120
+NLP Engineer,2.0,Depok,S2,medium,fintech,6446936
+AI Engineer,6.0,Depok,S1,medium,,8321028
+Computer Vision Engineer,,Tangerang,S1,small,e-commerce,5503912
+Data Engineer,2.0,Semarang,S1,large,,4394386
+Data Engineer,1.0,Jakarta,D3,small,fintech,
+AI Engineer,0.0,Depok,S1,small,consulting,4084608
+AI Engineer,7.0,Depok,S1,medium,e-commerce,8505934
+Data Scientist,4.0,Batam,D3,,startup,4011702
+NLP Engineer,1.0,Surabaya,S1,,e-commerce,4278135
+Data Engineer,3.0,Malang,D3,medium,fintech,5009644
+AI Engineer,5.0,Yogyakarta,S2,medium,e-commerce,6374610
+AI Engineer,4.0,Yogyakarta,S1,medium,fintech,6209060
+Data Analyst,3.0,Surabaya,S1,small,consulting,3074028
+NLP Engineer,7.0,Medan,S1,large,,8016605
+Machine Learning Engineer,3.0,Yogyakarta,D3,large,startup,4653472
+AI Engineer,6.0,Malang,SMA,small,fintech,6053040
+ML Ops Engineer,3.0,Depok,S2,small,fintech,4793942
+Computer Vision Engineer,3.0,Jakarta,S1,medium,e-commerce,6927428
+Data Analyst,0.0,,D3,small,fintech,2957438
+Data Scientist,2.0,Bekasi,S1,medium,fintech,5216875
+Data Engineer,3.0,Medan,S1,medium,banking,4835828
+ML Ops Engineer,0.0,Depok,S1,large,startup,3658608
+BI Analyst,5.0,Semarang,D3,small,startup,2398966
+Data Engineer,5.0,Medan,D3,medium,banking,5449191
+Machine Learning Engineer,3.0,Tangerang,S1,small,startup,4771818
+BI Analyst,0.0,Malang,S1,medium,consulting,2286704
+AI Engineer,3.0,Bali,S1,medium,e-commerce,5474566
+Data Scientist,4.0,Tangerang,S1,medium,startup,5188864
+,5.0,Makassar,S1,large,startup,5667222
+AI Engineer,6.0,Tangerang,S1,medium,banking,8385344
+Data Engineer,0.0,Bekasi,S2,large,fintech,5051414
+Data Engineer,0.0,Semarang,S1,small,fintech,3168429
+Data Analyst,2.0,Depok,SMA,medium,startup,2842468
+ML Ops Engineer,1.0,Makassar,S2,small,startup,2862650
+Data Engineer,3.0,Bekasi,S2,medium,startup,
+Machine Learning Engineer,1.0,Bali,S2,medium,e-commerce,4639424
+AI Engineer,2.0,Jakarta,S1,medium,e-commerce,6065674
+NLP Engineer,1.0,Bali,S2,small,banking,4364966
+Computer Vision Engineer,3.0,Makassar,S2,small,,4707490
+Data Engineer,,Yogyakarta,S1,medium,e-commerce,3723821
+BI Analyst,0.0,,S1,medium,e-commerce,2319773
+Computer Vision Engineer,2.0,Jakarta,S2,small,e-commerce,5482474
+Machine Learning Engineer,2.0,Bandung,S1,small,fintech,4818758
+ML Ops Engineer,3.0,Yogyakarta,D3,medium,consulting,3781432
+Machine Learning Engineer,6.0,Tangerang,S1,medium,fintech,7916334
+Data Scientist,1.0,Bandung,S1,small,fintech,4066232
+Data Engineer,9.0,,S1,,fintech,6548047
+Machine Learning Engineer,3.0,Malang,S1,large,fintech,6119506
+,1.0,Tangerang,S2,small,startup,3414945
+Machine Learning Engineer,5.0,Semarang,D3,small,startup,4220101
+Computer Vision Engineer,5.0,Tangerang,S1,large,banking,8718462
+Machine Learning Engineer,5.0,Bali,S1,large,e-commerce,6794755
+Data Engineer,4.0,Surabaya,S1,small,consulting,4673442
+NLP Engineer,2.0,Makassar,S1,small,e-commerce,4221389
+Data Engineer,3.0,Malang,S1,medium,startup,4339052
+,6.0,Yogyakarta,S2,small,fintech,6781882
+Data Scientist,3.0,Jakarta,S2,small,e-commerce,5372926
+BI Analyst,2.0,Bekasi,S1,small,e-commerce,2707037
+NLP Engineer,3.0,Makassar,S1,small,startup,4129795
+Data Scientist,3.0,Surabaya,S1,large,consulting,5262445
+BI Analyst,0.0,Jakarta,S1,large,fintech,3292419
+NLP Engineer,3.0,Tangerang,S2,,fintech,7641497
+Data Scientist,1.0,Batam,S1,small,,3829706
+NLP Engineer,0.0,Makassar,S1,medium,startup,3417378
+BI Analyst,2.0,Bali,S1,medium,fintech,2968108
+Data Analyst,0.0,Semarang,S1,medium,fintech,2661225
+Data Scientist,4.0,Depok,S1,large,consulting,6224507
+BI Analyst,0.0,Jakarta,S1,medium,banking,3002748
+AI Engineer,3.0,Tangerang,S1,small,consulting,5429737
+NLP Engineer,2.0,Yogyakarta,S1,small,startup,3626935
+ML Ops Engineer,2.0,Surabaya,S1,small,e-commerce,
+BI Analyst,2.0,Tangerang,S1,small,startup,2526827
+Computer Vision Engineer,7.0,Malang,S1,medium,banking,7699915
+ML Ops Engineer,0.0,Jakarta,S1,small,fintech,3758564
+,3.0,Jakarta,S1,medium,startup,5871406
+ML Ops Engineer,2.0,Makassar,,small,startup,3000134
+,5.0,Batam,S1,medium,fintech,7144800
+AI Engineer,2.0,Jakarta,S1,medium,consulting,5779972
+AI Engineer,4.0,Bekasi,S1,medium,e-commerce,6953940
+Computer Vision Engineer,2.0,Medan,S1,medium,e-commerce,5071185
+ML Ops Engineer,1.0,Makassar,S1,small,startup,2696913
+ML Ops Engineer,2.0,Tangerang,S1,large,e-commerce,5140141
+Data Engineer,4.0,Makassar,S1,medium,startup,4450554
+BI Analyst,3.0,Depok,S1,medium,fintech,3694441
+AI Engineer,1.0,Surabaya,S1,medium,banking,5120206
+,4.0,Yogyakarta,SMA,small,startup,4069709
+NLP Engineer,2.0,Surabaya,S1,small,e-commerce,4628374
+Data Analyst,1.0,Surabaya,S1,,e-commerce,3366054
+Data Scientist,1.0,Makassar,S1,small,e-commerce,3201284
+Data Analyst,,Surabaya,S1,medium,consulting,2947242
+Data Analyst,,Semarang,,large,e-commerce,2935780
+Data Engineer,0.0,Tangerang,,medium,fintech,4588852
+Computer Vision Engineer,3.0,,S1,medium,e-commerce,5538456
+Data Analyst,2.0,Jakarta,S1,small,,3208532
+Data Analyst,3.0,Depok,S1,small,e-commerce,3200591
+Computer Vision Engineer,4.0,Medan,S1,small,consulting,5063653
+Machine Learning Engineer,7.0,Bali,S1,small,banking,6102404
+BI Analyst,,Makassar,S2,medium,fintech,2566326
+Computer Vision Engineer,2.0,Surabaya,S1,small,e-commerce,4766490
+BI Analyst,4.0,Bekasi,S1,medium,fintech,3902770
+Data Scientist,4.0,Makassar,S1,medium,consulting,4579390
+AI Engineer,5.0,Yogyakarta,S2,medium,fintech,6896705
+NLP Engineer,5.0,Tangerang,S1,small,e-commerce,6167218
+Machine Learning Engineer,4.0,Depok,S1,medium,banking,6565094
+Data Engineer,,Yogyakarta,S1,large,e-commerce,5337520
+Machine Learning Engineer,7.0,Malang,S1,large,consulting,7358094
+Data Scientist,3.0,Bali,,small,e-commerce,4591418
+Computer Vision Engineer,2.0,Depok,S1,medium,e-commerce,5539060
+AI Engineer,,Malang,S1,medium,startup,5397479
+Data Analyst,0.0,Bandung,S2,small,e-commerce,2687412
+NLP Engineer,4.0,,S2,small,banking,5647576
+ML Ops Engineer,1.0,Tangerang,D3,medium,e-commerce,3934482
+,7.0,Bali,,small,fintech,7119521
+ML Ops Engineer,3.0,,D3,medium,fintech,4801416
+NLP Engineer,2.0,Malang,S1,small,fintech,4795662
+NLP Engineer,4.0,Yogyakarta,SMA,small,e-commerce,4667178
+ML Ops Engineer,0.0,Medan,S1,medium,e-commerce,3281444
+Data Scientist,3.0,Semarang,S1,medium,e-commerce,4515750
+BI Analyst,2.0,Bandung,S2,medium,consulting,3052360
+AI Engineer,3.0,,,large,e-commerce,5704328
+Data Scientist,,Bekasi,S1,medium,startup,4838880
+,0.0,Tangerang,S1,medium,e-commerce,4172682
+Data Analyst,2.0,Malang,S1,small,fintech,2757210
+Data Engineer,,Surabaya,S1,large,fintech,5003765
+AI Engineer,2.0,Bandung,S1,medium,e-commerce,5651022
+AI Engineer,6.0,Bekasi,S2,medium,fintech,8915116
+ML Ops Engineer,2.0,Jakarta,D3,small,consulting,3897714
+AI Engineer,5.0,Jakarta,S2,large,startup,7956980
+Data Scientist,4.0,Depok,S1,small,startup,4875180
+BI Analyst,0.0,,D3,medium,fintech,2409280
+Data Engineer,3.0,Jakarta,S1,medium,fintech,6106859
+NLP Engineer,5.0,,S1,medium,startup,5647962
+NLP Engineer,5.0,Bekasi,S1,small,fintech,6833454
+NLP Engineer,1.0,Depok,S1,small,startup,4234952
+ML Ops Engineer,3.0,Semarang,S2,small,startup,3448681
+Computer Vision Engineer,0.0,Tangerang,S1,small,startup,3652703
+Computer Vision Engineer,4.0,Bekasi,S1,small,e-commerce,6036148
+ML Ops Engineer,0.0,Jakarta,S3,medium,startup,3888880
+ML Ops Engineer,1.0,Depok,S1,medium,startup,3851702
+BI Analyst,0.0,Semarang,S1,large,e-commerce,2433234
+,6.0,Batam,S1,,fintech,
+NLP Engineer,0.0,Tangerang,S1,small,startup,
+Data Engineer,4.0,Bali,S1,small,consulting,4519622
+Data Scientist,4.0,Jakarta,S1,small,consulting,5375867
+Data Analyst,0.0,Surabaya,S2,medium,startup,2670492
+BI Analyst,0.0,Bekasi,S1,large,e-commerce,3009193
+Machine Learning Engineer,,Surabaya,S1,medium,,5370464
+Data Engineer,6.0,Semarang,S1,medium,,5020128
+NLP Engineer,3.0,Yogyakarta,S1,large,consulting,5606004
+Data Scientist,3.0,Malang,S1,small,,4052745
+AI Engineer,,Bandung,S1,small,startup,5567392
+Data Engineer,3.0,Malang,S1,medium,startup,4299968
+ML Ops Engineer,0.0,Malang,S1,medium,,3390817
+Data Engineer,2.0,Makassar,S1,large,fintech,5006938
+Data Scientist,6.0,Bandung,S1,large,startup,6203237
+Data Analyst,0.0,Malang,S1,small,fintech,2435773
+ML Ops Engineer,1.0,Jakarta,S2,medium,startup,4415866
+Data Engineer,1.0,Batam,S1,medium,consulting,4051508
+BI Analyst,,Bekasi,S1,medium,fintech,2903760
+NLP Engineer,4.0,Bali,S2,,e-commerce,7050690
+Machine Learning Engineer,5.0,,,medium,e-commerce,6588544
+NLP Engineer,0.0,Medan,D3,medium,fintech,4136381
+Data Scientist,3.0,Semarang,S2,,e-commerce,4796968
+BI Analyst,3.0,Surabaya,S1,medium,e-commerce,3313507
+Machine Learning Engineer,4.0,Semarang,S2,small,e-commerce,4846243
+,3.0,Batam,S1,small,startup,4038237
+Data Analyst,,Depok,S1,small,startup,2744709
+AI Engineer,2.0,Batam,S1,medium,startup,4550355
+Data Scientist,6.0,Semarang,S1,small,banking,5063971
+Machine Learning Engineer,6.0,Depok,S1,small,startup,5686396
+ML Ops Engineer,4.0,Bandung,S1,medium,consulting,4938774
+BI Analyst,2.0,Medan,SMA,medium,fintech,2667616
+,0.0,Surabaya,S2,small,startup,3004456
+Data Scientist,7.0,Bekasi,,small,consulting,6146364
+Data Analyst,1.0,Semarang,S1,medium,e-commerce,2705992
+NLP Engineer,3.0,Surabaya,S1,medium,,6318792
+Machine Learning Engineer,4.0,Bandung,S1,medium,banking,6298608
