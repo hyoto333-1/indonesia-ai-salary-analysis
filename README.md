@@ -70,8 +70,8 @@ Dashboard interaktif dibuat untuk menjawab pertanyaan bisnis secara visual:
 - Education Impact: Pengaruh jenjang pendidikan terhadap gaji
 - Geographic Distribution: Peta persebaran gaji di berbagai wilayah Indonesia
 
-Preview Dashboard:
-![preview dashboard](dashboard/Preview_dashboard.png)
+Preview Dashboard:  <br>
+![preview dashboard](Dashboard/Preview_dashboard.png)
 
 ## 💡 Key Insights (Ringkasan)
 1. AI Engineer memiliki rata-rata gaji tertinggi (sekitar Rp 5,9 juta).
@@ -87,4 +87,5 @@ Preview Dashboard:
 
 ## 📫 Kontak
 Connect with me: [LinkedIn](https://www.linkedin.com/in/ardiansyah-putra-7746a0280)
+
 
